@@ -1,4 +1,4 @@
-### Hi there 👋
+### Engineer | Epidemiologist | Researcher | Data Scientist
 
 <!--
 **kpzoo/kpzoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
