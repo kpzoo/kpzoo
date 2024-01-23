@@ -1,5 +1,14 @@
 ### Engineer | Epidemiologist | Data Scientist
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kris-parag-12b46324/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/krisparag1">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 I'm an MRC career development award fellow (_Imperial College London_) and honorary lecturer (_University of Bristol_) working on translating ideas from engineering and statistics into better data-driven solutions to infectious disease problems. See https://scholar.google.com/citations?user=F7F5OcsAAAAJ&hl=en
 
 I lead the multidisciplinary **EpiEng** (_Epidemiological Engineering_) group. Our interests sit within two themes:
@@ -20,5 +29,5 @@ Projects include:
 
 
 
-**Keywords**
+**Keywords**:
 Statistics, Information Theory, Control Theory, Reinforcement Learning, Phylodynamics, Bayesian Inference, Markov Processes, Epidemic Modelling, Stochastic Processes, Queueing Theory, Infectious Diseases, Time Series
