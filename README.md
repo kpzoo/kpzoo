@@ -13,7 +13,7 @@ I'm an MRC career development award fellow (_Imperial College London_) and honor
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
   </a>
 </div>
-<br/><br/>
+<br/>
 
 I lead the multidisciplinary **EpiEng** (_Epidemiological Engineering_) group. Our interests sit within two themes:
   
