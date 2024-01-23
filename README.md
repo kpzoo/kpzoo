@@ -16,6 +16,7 @@ I'm an MRC career development award fellow (_Imperial College London_) and honor
 <pre>
 I lead the multidisciplinary **EpiEng** (_Epidemiological Engineering_) group. Our interests sit within two themes:
 <pre>
+  
 **Minimal modelling**: _minimising model complexity and maximising the information extracted from single and combined data sources_
 
 Projects include:
