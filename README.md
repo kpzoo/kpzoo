@@ -30,7 +30,7 @@ Our interests sit within two themes:
 3) Models of behavioural and other coupled interactions to anticipate changepoints in dynamics (networks and metapopulations)
 
 
-<img src="https://github.com/kpzoo/kpzoo/assets/20108686/a736da55-a4a9-4582-aa6a-cfd6ef70a3e2" width="400" height="400">
+<img src="https://github.com/kpzoo/kpzoo/assets/20108686/a736da55-a4a9-4582-aa6a-cfd6ef70a3e2" width="600" height="400">
 
 **Keywords**:
 Statistics, Information Theory, Control Theory, Reinforcement Learning, Phylodynamics, Bayesian Inference, Markov Processes, Epidemic Modelling, Stochastic Processes, Queueing Theory, Infectious Diseases, Time Series
