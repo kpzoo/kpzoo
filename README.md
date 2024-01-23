@@ -1,6 +1,6 @@
 ### Engineer | Epidemiologist | Data Scientist
 
-I'm an MRC career development award fellow (_Imperial College London_) and honorary lecturer (_University of Bristol_). I lead the multidisciplinary **EpiEng** (_Epidemiological Engineering_) group. We work on translating ideas from engineering and statistics into better data-driven solutions to biomedical problems. 
+I'm an MRC career development award fellow (_Imperial College London_) and honorary lecturer (_University of Bristol_). I lead the multidisciplinary **EpiEng** (_Epidemiological Engineering_) group. We work on translating ideas from _engineering and statistics_ into better _data-driven solutions to biomedical problems_. 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/kris-parag-12b46324/">
@@ -30,7 +30,7 @@ Our interests sit within two themes:
 3) Models of behavioural and other coupled interactions to anticipate changepoints in dynamics (networks and metapopulations)
 
 
-<img src="https://github.com/kpzoo/kpzoo/assets/20108686/a736da55-a4a9-4582-aa6a-cfd6ef70a3e2" width="500" height="400">
+<img src="https://github.com/kpzoo/kpzoo/assets/20108686/a736da55-a4a9-4582-aa6a-cfd6ef70a3e2" width="500" height="400"> Example analysis
 
 **Keywords**:
 Statistics, Information Theory, Control Theory, Reinforcement Learning, Phylodynamics, Bayesian Inference, Markov Processes, Epidemic Modelling, Stochastic Processes, Queueing Theory, Infectious Diseases, Time Series
