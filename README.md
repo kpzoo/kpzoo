@@ -31,6 +31,7 @@ Projects include:
 2) Feedback control laws for efficiently suppressing spreading processes (reinforcement learning)
 3) Models of behavioural and other coupled interactions to anticipate changepoints in dynamics (networks and metapopulations)
 
+![rsif20210569f01](https://github.com/kpzoo/kpzoo/assets/20108686/a736da55-a4a9-4582-aa6a-cfd6ef70a3e2)
 
 
 **Keywords**:
