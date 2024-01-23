@@ -4,10 +4,10 @@ I'm an MRC career development award fellow (_Imperial College London_) and honor
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/kris-parag-12b46324/">
-    <img src="https://img.shields.io/badge/LinkedIn--4285F4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-4285F4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/krisparag1">
-    <img src="https://img.shields.io/badge/Twitter--4285F4?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-4285F4?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://scholar.google.com/citations?hl=en&user=F7F5OcsAAAAJ&view_op=list_works&sortby=pubdate">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
