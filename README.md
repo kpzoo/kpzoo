@@ -10,9 +10,10 @@ I'm an MRC career development award fellow (_Imperial College London_) and honor
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://twitter.com/krisparag1">
-    <img src="https://img.shields.io/badge/Scholar-blue?style=for-the-badge&logo=scholar&logoColor=white" alt="Scholar Badge"/>
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Scholar Badge"/>
   </a>
 </div>
+
 
 I lead the multidisciplinary **EpiEng** (_Epidemiological Engineering_) group. Our interests sit within two themes:
 
