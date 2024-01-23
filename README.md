@@ -1,6 +1,6 @@
 ### Engineer | Epidemiologist | Data Scientist
 
-I'm an MRC career development award fellow (_Imperial College London_) and honorary lecturer (_University of Bristol_) working on translating ideas from engineering and statistics into better data-driven solutions to biomedical problems. 
+I'm an MRC career development award fellow (_Imperial College London_) and honorary lecturer (_University of Bristol_). I lead the multidisciplinary **EpiEng** (_Epidemiological Engineering_) group. We work on translating ideas from engineering and statistics into better data-driven solutions to biomedical problems. 
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/kris-parag-12b46324/">
@@ -15,7 +15,7 @@ I'm an MRC career development award fellow (_Imperial College London_) and honor
 </div>
 <br/>
 
-I lead the multidisciplinary **EpiEng** (_Epidemiological Engineering_) group. Our interests sit within two themes:
+Our interests sit within two themes:
   
 **Minimal modelling**: _minimising model complexity and maximising the information extracted from single and combined data sources_
 
