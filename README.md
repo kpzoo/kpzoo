@@ -37,5 +37,6 @@ Example analysis: we apply sequential Bayesian algorithms (see EpiFilter at http
 
 <img src="https://github.com/kpzoo/kpzoo/assets/20108686/a736da55-a4a9-4582-aa6a-cfd6ef70a3e2" width="600" height="500"> 
 
+
 **Keywords**:
 Statistics, Information Theory, Control Theory, Reinforcement Learning, Phylodynamics, Bayesian Inference, Markov Processes, Epidemic Modelling, Stochastic Processes, Queueing Theory, Infectious Diseases, Time Series, Population Dynamics
