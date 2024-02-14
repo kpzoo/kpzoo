@@ -34,6 +34,7 @@ The approach of the EpiEng group is sketched below:
 <img width="600" alt="Screenshot 2024-01-23 at 18 14 42" src="https://github.com/kpzoo/kpzoo/assets/20108686/c463ab34-7609-4a6b-b44a-adbac2f54d1b">
 
 Example analysis: we apply sequential Bayesian algorithms (see EpiFilter at https://github.com/kpzoo/EpiFilter) to remove noise and characterise transmission rates (the time-varying smoothed reproduction number in red) against the policies implemented in New Zealand. This is a difficult problem due to the large periods of little data, which can destabilise some predominant approaches. The use of smoothing allowed better information extraction from scarce data and yielded convincing associations between rates and policies.
+
 <img src="https://github.com/kpzoo/kpzoo/assets/20108686/a736da55-a4a9-4582-aa6a-cfd6ef70a3e2" width="600" height="500"> 
 
 **Keywords**:
