@@ -1,6 +1,6 @@
 ### Engineer | Epidemiologist | Data Scientist
 
-I'm an MRC career development award fellow (_Imperial College London_) and honorary lecturer (_University of Bristol_). I lead the multidisciplinary **EpiEng** (_Epidemiological Engineering_) group. 
+I'm a Senior AI+ Academic Fellow and MRC Career Development Award Fellow (_King's College London_) and Honorary Senior Fellow (_Imperial College London_). I lead the multidisciplinary **EpiEng** (_Epidemiological Engineering_) group. 
 <div id="badges">
   <a href="https://www.linkedin.com/in/kris-parag-12b46324/">
     <img src="https://img.shields.io/badge/LinkedIn-4285F4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
